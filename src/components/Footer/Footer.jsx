@@ -101,7 +101,7 @@ const Footer = () => {
                   <span><i class="ri-map-pin-line"></i></span>
                   Address:
                 </h6>
-                <p className='mb-0'>Mumbai,India</p>
+                <p className='mb-0'>Bangalore,India</p>
               </ListGroupItem>
 
             </ListGroup>
@@ -114,7 +114,7 @@ const Footer = () => {
                   <span><i class="ri-mail-line"></i></span>
                   Email:
                 </h6>
-                <p className='mb-0'>apna.safar@gmail.com</p>
+                <p className='mb-0'>shwethatours@gmail.com</p>
               </ListGroupItem>
 
             </ListGroup>
